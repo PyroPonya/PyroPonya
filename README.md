@@ -4,7 +4,6 @@
 ### 📫 How to reach me: 
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• tg: https://t.me/pyroponya
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• pyroponya@gmail.com
-### ⚡ Fun fact: water is wet
 
 <!--
 **PyroPonya/PyroPonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
