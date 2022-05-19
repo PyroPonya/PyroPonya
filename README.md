@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me: 
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• tg: https://t.me/pyroponya
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• pyroponya@gmail.com
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• mail: pyroponya@gmail.com
 
 <!--
 **PyroPonya/PyroPonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
