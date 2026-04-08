@@ -2,6 +2,7 @@
 
 ### 📫 How to reach me: 
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• tg: https://t.me/pyroponya
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• KakaoTalk: pyroponya
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• mail: i@letsiealeksis.ru
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• mail2: pyroponya@gmail.com
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ln: https://www.linkedin.com/in/pyroponya/
